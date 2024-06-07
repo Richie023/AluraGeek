@@ -1,4 +1,4 @@
-const http = require('http');
+const http = require('http://localhost:3000/products');
 
 // Definir el manejador de solicitudes (request handler)
 const requestHandler = (req, res) => {
